@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1647586691",
+    "project_id": "prjmariana-a34c4",
+    "storage_bucket": "prjmariana-a34c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1647586691:android:067547f9a6834905e89ab6",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtU7tWLe--Ot-l058Y2kTJt_Gee1KeCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
